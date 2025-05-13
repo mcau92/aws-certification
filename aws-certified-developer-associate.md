@@ -2,16 +2,10 @@
 
 ## Risorse
 
-**Link**
+**Link Utili**
 
 - [Link A tutte le risorse del corso](https://digitalcloud.training/aws-certified-developer-course-downloads/)
 - [Link Codice Github corso](https://github.com/nealdct/aws-dva-code)
-
-**Credenziali**
-
-- rootUser
-    - username: [**michael.cauduro.dev@gmail.com**](mailto:michael.cauduro.dev@gmail.com)
-    - password: 8Gdr*)?qA&uf)F
 
 ## 📝 Guida allo Studio per l'Esame AWS Certified Developer – Associate
 
