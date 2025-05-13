@@ -118,7 +118,7 @@ Tabella dei contenuti
 
 Web service che consente di lanciare macchine virtuali nel cloud, possibilità di utilizzare template pre configurati (AMIs - Amazon machine image) o customizzare in base alle necessità.
 
-![image.png](attachment:3e8f52d3-9086-4744-b241-5137d691f01a:image.png)
+![image](https://github.com/user-attachments/assets/a6cb0a76-3889-446e-a063-208c1bb3448b)
 
 Un'Amazon Machine Image (AMI) è un'immagine che fornisce il software necessario per configurare e avviare un' EC2 istanza Amazon. Ogni AMI contiene anche una mappatura dei dispositivi a blocchi che specifica i dispositivi a blocchi da collegare alle istanze che vengono lanciate.
 
