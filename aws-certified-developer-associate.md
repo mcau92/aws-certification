@@ -4,7 +4,8 @@
 
 **Link**
 
-- [Link A tutte le risorse del corso](https://digitalcloud.training/aws-certified-developer-course-downloads/)[Link Codice Github corso](https://github.com/nealdct/aws-dva-code)
+- [Link A tutte le risorse del corso](https://digitalcloud.training/aws-certified-developer-course-downloads/)
+- [Link Codice Github corso](https://github.com/nealdct/aws-dva-code)
 
 **Credenziali**
 
